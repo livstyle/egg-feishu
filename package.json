@@ -1,6 +1,6 @@
 {
   "name": "egg-feishu",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "egg feishu plugin",
   "eggPlugin": {
     "name": "feishu",
@@ -54,9 +54,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-feishu.git"
+    "url": "git+https://github.com/livstyle/egg-feishu.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/livstyle/egg-feishu/issues"
   }
 }
