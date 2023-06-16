@@ -7,7 +7,7 @@ const lark = require('@larksuiteoapi/node-sdk');
  * @member Config#feishu
  * @property {String} SOME_KEY - some description
  */
-exports.omsFeishu = {
+exports.feishu = {
     appId: 'app id',
     appSecret: 'app secret',
     appType: lark.AppType.SelfBuild,
