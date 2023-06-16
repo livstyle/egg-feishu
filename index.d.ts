@@ -1,7 +1,6 @@
 import * as lark from '@larksuiteoapi/node-sdk';
 
 declare module 'egg' {
-
   // extend app
   interface Application {
     feishu: lark.Client;

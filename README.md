@@ -13,7 +13,7 @@ $ npm i egg-feishu --save
 Change `{app_root}/config/plugin.js` to enable `egg-feishu` plugin:
 
 ```js
-exports.mongoose = {
+exports.feishu = {
   enable: true,
   package: 'egg-feishu',
 };
